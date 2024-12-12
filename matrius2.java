@@ -2,7 +2,7 @@
 public class matrius2 {
 
     public static void main(String[] args) {
-
+        //moha vende droga llamen al 112
         int M1[] = {1, 2, 3, 4, 5, 6};
         int M2[] = {7, 8, 9, 0, 1, 2};
         int M3[] = new int[12];
